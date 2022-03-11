@@ -1,4 +1,4 @@
-package CommonsCollections1;
+package org.h3rmesk1t.CommonsCollections1;
 
 import org.apache.commons.collections.Transformer;
 import org.apache.commons.collections.functors.ChainedTransformer;
