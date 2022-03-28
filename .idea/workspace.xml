@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="log4j-samples-flume-remote:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="JavaSec-Learn" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d3c90e2-cdb9-484e-af36-c0053d278e64" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/h3rmesk1t/MySQLJDBC/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/h3rmesk1t/Fastjson/fastjson24/POC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/h3rmesk1t/Fastjson/fastjson24/POC1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/h3rmesk1t/Hessian/HJessianSerialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/h3rmesk1t/Hessian/HJessianSerialization.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/pattern/PatternFormatter.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/appender/AbstractOutputStreamAppender.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/util/Constants.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/click/click-nodeps/2.3.0/click-nodeps-2.3.0.jar!/org/apache/click/util/PropertyUtils.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/Logger.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/pattern/MessagePatternConverter.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/layout/PatternLayout.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar!/bsh/Interpreter.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/config/LoggerConfig.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar!/bsh/XThis.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/config/AppenderControl.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar!/bsh/This.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/click/click-nodeps/2.3.0/click-nodeps-2.3.0.jar!/org/apache/click/control/Column.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/pattern/DatePatternConverter.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8.0_66" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8.0_66" />
+  </component>
+  <component name="ProjectId" id="23v3VrcLLLF9LPw8oML7EBoZ3ci" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaMethodFindUsagesOptions.isIncludeOverloadUsages" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_66" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/h3rmesk1t/XMLDecode" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/h3rmesk1t/XMLDecode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/org/h3rmesk1t/XMLDecode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.h3rmesk1t.jndi.RMIAttack" />
+      <recent name="org.h3rmesk1t.jep290.bypass8u240" />
+      <recent name="org.h3rmesk1t.jep290.bypass8u230" />
+      <recent name="org.h3rmesk1t.rmi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Demo">
+    <configuration name="C3P0BeanFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.h3rmesk1t.C3P0.C3P0BeanFactory" />
+      <module name="JavaSec-Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.h3rmesk1t.C3P0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C3P0Hex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.h3rmesk1t.C3P0.C3P0Hex" />
+      <module name="JavaSec-Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.h3rmesk1t.C3P0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C3P0JNDI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.h3rmesk1t.C3P0.C3P0JNDI" />
+      <module name="JavaSec-Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.h3rmesk1t.C3P0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.h3rmesk1t.MySQLJDBC.Demo" />
+      <module name="JavaSec-Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.h3rmesk1t.MySQLJDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.h3rmesk1t.Fastjson.demo.SerialDemo" />
+      <module name="JavaSec-Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.h3rmesk1t.Fastjson.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.59" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.59" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="log4j-samples-flume-remote:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/log4j_samples_flume_remote_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="log4j-samples-flume-remote:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.59" />
+      <item itemvalue="应用程序.C3P0JNDI" />
+      <item itemvalue="应用程序.SerialDemo" />
+      <item itemvalue="应用程序.C3P0Hex" />
+      <item itemvalue="应用程序.C3P0BeanFactory" />
+      <item itemvalue="应用程序.Demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Demo" />
+        <item itemvalue="应用程序.C3P0BeanFactory" />
+        <item itemvalue="应用程序.C3P0Hex" />
+        <item itemvalue="应用程序.C3P0JNDI" />
+        <item itemvalue="应用程序.SerialDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8d3c90e2-cdb9-484e-af36-c0053d278e64" name="变更" comment="" />
+      <created>1642600762294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642600762294</updated>
+      <workItem from="1642600768259" duration="377000" />
+      <workItem from="1642947880116" duration="28281000" />
+      <workItem from="1643531884657" duration="2131000" />
+      <workItem from="1643705593595" duration="1194000" />
+      <workItem from="1643722017257" duration="293000" />
+      <workItem from="1643722348679" duration="2092000" />
+      <workItem from="1643724826261" duration="19789000" />
+      <workItem from="1643944275278" duration="5560000" />
+      <workItem from="1644184013213" duration="44200000" />
+      <workItem from="1644505889720" duration="647000" />
+      <workItem from="1645601273184" duration="388000" />
+      <workItem from="1646067716175" duration="11747000" />
+      <workItem from="1646189973306" duration="11846000" />
+      <workItem from="1646298727983" duration="4667000" />
+      <workItem from="1646311855279" duration="7995000" />
+      <workItem from="1646377154449" duration="1921000" />
+      <workItem from="1646500452219" duration="6588000" />
+      <workItem from="1646622027319" duration="521000" />
+      <workItem from="1646734837580" duration="516000" />
+      <workItem from="1646910082474" duration="24478000" />
+      <workItem from="1647064815966" duration="9972000" />
+      <workItem from="1647349000542" duration="12996000" />
+      <workItem from="1647398181723" duration="16002000" />
+      <workItem from="1647499669595" duration="11328000" />
+      <workItem from="1647528362462" duration="1872000" />
+      <workItem from="1647996816087" duration="5302000" />
+      <workItem from="1648474292378" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/rmi/server/UnicastServerRef.class</url>
+          <line>94</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/rmi/transport/tcp/TCPTransport.class</url>
+          <line>149</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/rmi/transport/tcp/TCPTransport.class</url>
+          <line>230</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/h3rmesk1t/JEP290/RMIClient.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/h3rmesk1t/JNDI/RMIAttack/JNDIClient.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/javax/naming/spi/NamingManager.java</url>
+          <line>318</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/h3rmesk1t/JNDI/LDAPAttack/JNDIClient.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.23/fastjson-1.2.23.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
+          <line>1295</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.23/fastjson-1.2.23.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
+          <line>198</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.23/fastjson-1.2.23.jar!/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.class</url>
+          <line>202</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/h3rmesk1t/Fastjson/fastjson24/POC1.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.23/fastjson-1.2.23.jar!/com/alibaba/fastjson/JSON.class</url>
+          <line>72</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.23/fastjson-1.2.23.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
+          <line>126</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSON.class</url>
+          <line>81</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class</url>
+          <line>300</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/impl/ThreadContextDataInjector.class</url>
+          <line>115</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/Logger.class</url>
+          <line>88</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/config/LoggerConfig.class</url>
+          <line>281</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/config/LoggerConfig.class</url>
+          <line>294</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/config/AppenderControl.class</url>
+          <line>82</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/appender/AbstractOutputStreamAppender.class</url>
+          <line>88</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/layout/PatternLayout.class</url>
+          <line>100</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/layout/PatternLayout.class</url>
+          <line>108</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar!/org/apache/logging/log4j/core/pattern/MessagePatternConverter.class</url>
+          <line>118</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/org/yaml/snakeyaml/Yaml.class</url>
+          <line>234</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/org/yaml/snakeyaml/constructor/BaseConstructor.class</url>
+          <line>112</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/h3rmesk1t/SnakeYaml/ScriptEngineManagerExploit.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/org/yaml/snakeyaml/constructor/BaseConstructor.class</url>
+          <line>177</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/org/yaml/snakeyaml/constructor/Constructor.class</url>
+          <line>446</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/org/yaml/snakeyaml/constructor/Constructor.class</url>
+          <line>438</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar!/org/yaml/snakeyaml/constructor/Constructor.class</url>
+          <line>121</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.6/xstream-1.4.6.jar!/com/thoughtworks/xstream/core/TreeUnmarshaller.class</url>
+          <line>123</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.6/xstream-1.4.6.jar!/com/thoughtworks/xstream/core/TreeUnmarshaller.class</url>
+          <line>44</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.6/xstream-1.4.6.jar!/com/thoughtworks/xstream/core/DefaultConverterLookup.class</url>
+          <line>46</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.6/xstream-1.4.6.jar!/com/thoughtworks/xstream/core/AbstractReferenceUnmarshaller.class</url>
+          <line>47</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/beans/XMLDecoder.java</url>
+          <line>200</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLDocumentFragmentScannerImpl.java</url>
+          <line>448</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLDocumentFragmentScannerImpl.java</url>
+          <line>509</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/beans/decoder/ElementHandler.class</url>
+          <line>78</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/beans/decoder/ObjectElementHandler.class</url>
+          <line>69</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/src.zip!/java/beans/Expression.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar!/sun/rmi/transport/tcp/TCPTransport.class</url>
+          <line>514</line>
+          <properties class="sun.rmi.transport.tcp.TCPTransport.AcceptLoop">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
